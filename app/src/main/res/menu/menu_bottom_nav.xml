@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--
+    <item
+        android:id="@+id/announcement"
+        android:title="announcement"
+        android:icon="@drawable/ic_announcement_black_24dp"/>  -->
+    <item
+        android:id="@+id/complaint"
+        android:title="complaint"
+        android:icon="@drawable/ic_complaint_black_24dp"/>
+    <item
+        android:id="@+id/home"
+        android:title="home"
+        android:icon="@drawable/ic_home_black_24dp"/>
+    <item
+        android:id="@+id/account"
+        android:title="account"
+        android:icon="@drawable/ic_account_circle_black_24dp"/>
+</menu>

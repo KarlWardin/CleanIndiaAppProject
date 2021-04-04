@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "760780421786",
+    "firebase_url": "https://clean-india-bb257.firebaseio.com",
+    "project_id": "clean-india-bb257",
+    "storage_bucket": "clean-india-bb257.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760780421786:android:8b44533916b2ac97b93d23",
+        "android_client_info": {
+          "package_name": "com.wardin.cleanindia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760780421786-61qhelv5flh3nlcqn2gu451sjptnc9vv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wardin.cleanindia",
+            "certificate_hash": "c4217db8ac2b9acdb8290b5be0199b3445c84279"
+          }
+        },
+        {
+          "client_id": "760780421786-v48lnos4u6hhr42imug6cdp38nlt12k9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT3rQ3OltWLLPguBMDvUM8BtGTEywb0-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760780421786-v48lnos4u6hhr42imug6cdp38nlt12k9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
